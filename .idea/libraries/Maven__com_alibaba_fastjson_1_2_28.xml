@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:fastjson:1.2.28">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/" />
+      <root url="file://D:/utils/mysql-connector-java-5.1.43" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28-sources.jar!/" />
+      <root url="file://D:/utils/mysql-connector-java-5.1.43/src" />
+    </SOURCES>
+    <jarDirectory url="file://D:/utils/mysql-connector-java-5.1.43" recursive="false" />
+  </library>
+</component>
